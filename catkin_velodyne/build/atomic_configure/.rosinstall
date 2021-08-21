@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ustb/catkin_velodyne/devel/setup.sh

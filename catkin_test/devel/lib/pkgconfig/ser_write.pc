@@ -1,0 +1,8 @@
+prefix=/home/ustb/catkin_test/devel
+
+Name: ser_write
+Description: Description of ser_write
+Version: 0.0.0
+Cflags: -I/home/ustb/catkin_test/src/ser_write/include
+Libs: -L${prefix}/lib -lser_write
+Requires: roscpp rospy std_msgs

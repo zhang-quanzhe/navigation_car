@@ -1,0 +1,2 @@
+mbot_description:mbot_gazebo:mbot_navigation:mbot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/ustb/slam_demo/devel -DCMAKE_INSTALL_PREFIX=/home/ustb/slam_demo/install -G Unix Makefiles

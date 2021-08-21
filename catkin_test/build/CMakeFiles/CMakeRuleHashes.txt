@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b94807a99034941298feede3f0c72d58 /home/ustb/catkin_test/devel/share/roseus/ros/ser_write/manifest.l
+81a2e005dfaeac336d549720b2a73748 CMakeFiles/clean_test_results
+ed6a418a7a2bf4b0bc3d28aa99375f4a ser_write/CMakeFiles/ser_write_generate_messages_eus

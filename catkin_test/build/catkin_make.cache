@@ -1,0 +1,2 @@
+ser_write
+-DCATKIN_DEVEL_PREFIX=/home/ustb/catkin_test/devel -DCMAKE_INSTALL_PREFIX=/home/ustb/catkin_test/install -G Unix Makefiles
